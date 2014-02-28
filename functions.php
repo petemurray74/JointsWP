@@ -30,8 +30,8 @@ library/custom-post-type.php
 	- example custom taxonomy (like categories)
 	- example custom taxonomy (like tags)
 */
-require_once(get_template_directory().'/library/custom-post-type-accordion.php'); // you can disable this if you like
-require_once(get_template_directory().'/library/custom-post-type.php'); // you can disable this if you like
+//require_once(get_template_directory().'/library/custom-post-type-accordion.php'); // you can disable this if you like
+//require_once(get_template_directory().'/library/custom-post-type.php'); // you can disable this if you like
 /*
 library/admin.php
 	- removing some default WordPress dashboard widgets
@@ -39,7 +39,7 @@ library/admin.php
 	- adding custom login css
 	- changing text in footer of admin
 */
-// require_once(get_template_directory().'/library/admin.php'); // this comes turned off by default
+//require_once(get_template_directory().'/library/admin.php'); // this comes turned off by default
 /*
 library/translation/translation.php
 	- adding support for other languages
