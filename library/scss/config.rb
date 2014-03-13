@@ -28,3 +28,5 @@ output_style = :expanded
 
 # don't touch this
 preferred_syntax = :scss
+
+add_import_path "../../bower_components/foundation/scss"
