@@ -2,6 +2,6 @@ I'm using JointsWP like this.
 
 I use a child theme for functions and styling
 
-I edit the SCSS in the parent theme, as it quickly becomes too complicated if you bring this in to the child. 
+It's hard not to edit the parent a little, so I'm tracking it in this git  
 
 
